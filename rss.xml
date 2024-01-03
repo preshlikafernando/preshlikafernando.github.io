@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Zplit</title>
+      <link>/</link>
+      <description>A single page theme for a professional online presense.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sun, 30 Oct 2022 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Lorenz Attractor</title>
+          <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>/blog/lorenz-attractor/</link>
+          <guid>/blog/lorenz-attractor/</guid>
+          <description>&lt;p&gt;nullam eu ante vel est convallis dignissim.  fusce suscipit, wisi nec facilisis
+facilisis, est dui fermentum leo, quis tempor ligula erat quis odio.  nunc
+porta vulputate tellus.  nunc rutrum turpis sed pede.  sed bibendum.  aliquam
+posuere.  nunc aliquet, augue nec adipiscing interdum, lacus tellus malesuada
+massa, quis varius mi purus non odio.  pellentesque condimentum, magna ut
+suscipit hendrerit, ipsum augue ornare nulla, non luctus diam neque sit amet
+urna.  curabitur vulputate vestibulum lorem.  fusce sagittis, libero non
+molestie mollis, magna orci ultrices dolor, at vulputate neque nulla lacinia
+eros.  sed id ligula quis est convallis tempor.  curabitur lacinia pulvinar
+nibh.  nam a sapien.&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
