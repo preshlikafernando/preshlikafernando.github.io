@@ -1,0 +1,10 @@
+{% macro bio() %}
+<div class="split-bio">
+    {% if config.extra.content.bio is defined %}
+    <span class="tagline">{{ config.extra.content.bio }}</span>
+    {% else %}
+    <!-- Default tagline. Change me in `config.toml` -->
+    <span class="tagline">Hello, I'm Preshlika Fernando, a multi-talented individual with a deep love for creativity. As a designer, I weave together colors, shapes, and ideas to create visually captivating experiences. As a model, I bring life and expression to the art of fashion and style. And as a developer, I translate my creativity into functional, user-friendly digital solutions.</span>
+    {% endif %}
+</div>
+{% endmacro bio %}
