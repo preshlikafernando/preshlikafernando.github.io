@@ -2,7 +2,7 @@ base_url = "https://resume.alongwy.top"
 compile_sass = true
 title = "Feng"
 description = "A clean resume theme"
-generate_feed = true
+#generate_feed = true
 build_search_index = true
 taxonomies = [
   { name = "tags", feed = true },
