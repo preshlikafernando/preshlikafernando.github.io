@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-### Hi there 👋 whawdwadhalwhd aw;d awdj;awjkl dja;wd ljaw;dkj I'm Yunlong Feng. A PhD student in Harbin Institute of Technology.
+### Hi there visitor
 
 - 🌱 I’m currently learning nlp and rust in [scir](https://ir.hit.edu.cn).
 - 💬 Ask me anything [here](https://github.com/alongwy/alongwy/issues).
